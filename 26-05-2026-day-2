@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ayush Turak",
+        "phone": "9876543210",
+        "email": "ayush@example.com"
+    },
+    {
+        "name": "Minal Patil",
+        "phone": "0123456789",
+        "email": "minal.patil@example.com"
+    },
+    {
+        "name": "Ayush Turak",
+        "phone": "9876543210",
+        "email": "ayush@example.com"
+    },
+    {
+        "name": "Minal Patil",
+        "phone": "0123456789",
+        "email": "minal.patil@example.com"
+    }
+]
